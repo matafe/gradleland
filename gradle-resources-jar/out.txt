@@ -1,0 +1,23 @@
+lib.jar
+.
+├── META-INF
+│   └── MANIFEST.MF
+├── app.properties
+└── gradle
+    └── resource
+        └── jar
+            └── Library.class
+
+4 directories, 3 files
+
+================================
+
+lib-resources.jar
+.
+├── META-INF
+│   ├── MANIFEST.MF
+│   └── resources
+│       └── res1.xml
+└── app.properties
+
+2 directories, 3 files

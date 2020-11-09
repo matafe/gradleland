@@ -1,0 +1,2 @@
+# gradleland
+Gradle standalone samples
